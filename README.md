@@ -25,6 +25,11 @@ Polygon Drawer is a Python project that uses the Turtle module to draw various p
 - Customize the color of each polygon.
 - Interactive drawing with Turtle graphics.
 
+## Preview
+
+https://github.com/barakadanny/Polygon-Python/assets/53088629/559e2f6c-877b-4ece-a642-f10d0b628c26
+
+
 ## Getting Started
 
 ### Prerequisites
